@@ -5,7 +5,6 @@
 - ⚡ Stack: React (Next.js, Storybook, Tailwind, Styled Component, Typescript and Redux), PHP and Dart;  
 - 🔭 I’m currently working in Fidúcia SCM, Banking as a service;
 - 🌱 I’m currently learning Flutter, Dart, Blockchain and Kotlin;
-- 👯 I’m looking to collaborate on Terra Viva Armázem (Look in: https://www.instagram.com/armazemterraviva) and Inside A5 (look in: insidea5.com.br)
 - 💬 Ask me what you want
 - 📫 How to reach me: sxecesar@gmail.com 
 
