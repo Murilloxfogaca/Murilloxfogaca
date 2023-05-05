@@ -4,7 +4,7 @@
 
 - ⚡ Stack: React (Next.js, Storybook, Tailwind, Styled Component, Typescript and Redux), PHP and Dart;  
 - 🔭 I’m currently working in Fidúcia SCM, Banking as a service;
-- 🌱 I’m currently learning Flutter, Dart, Blockchain and Kotlin;
+- 🌱 I’m currently learning Flutter, Dart and Angular;
 - 💬 Ask me what you want
 - 📫 How to reach me: sxecesar@gmail.com 
 
