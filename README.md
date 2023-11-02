@@ -1,13 +1,54 @@
-# Hi Person, I'm Murillo Fogaça 👋
+# Murillo Fogaça - Web Developer Front-End
 
-⚡ I´m: Vegan, amateur football player and straight edge... my idea is to create projects for low-income people from peripheral regions, I worked for a long time in advertising and marketing agencies
+Hello there! I'm Murillo Fogaça, a dedicated web developer with a specialization in accessibility and user experience. With over five years of hands-on experience in the front-end development sector, I bring a wealth of knowledge in software manufacturing and banking processes. My passion lies in the world of coding, and I'm committed to creating innovative and efficient digital solutions.
 
-- ⚡ Stack: React (Next.js, Storybook, Tailwind, Styled Component, Typescript and Redux), PHP and Dart;  
-- 🔭 I’m currently working in Fidúcia SCM, Banking as a service;
-- 🌱 I’m currently learning Flutter, Dart and Angular;
-- 💬 Ask me what you want
-- 📫 How to reach me: sxecesar@gmail.com 
+## Expertise
 
+### Programming Languages
+- PHP
+- JavaScript (JS)
+- Dart
+- Java
+
+### Frameworks
+- TypeScript
+- Angular 13
+- React Native
+- Next.js
+- Laravel
+- CodeIgniter
+- Wordpress
+
+### Styles and Design
+- SCSS
+- Styled Components
+- Tailwind
+- Materials UI
+- Design System with Storybook
+
+### Tests
+- Cypress
+- Jest
+
+### Development Methodologies
+- Agile
+- Scrum with Kanban
+
+### Databases
+- SQL
+- MySQL
+- MongoDB
+
+### Virtualization
+- Docker
+
+### Mobile Development
+- Angular
+- Flutter
+
+## Collaboration and Learning
+
+I am always open to collaboration and eager to explore learning opportunities in the ever-evolving field of technology. If you have a project in mind, want to discuss potential collaborations, or simply geek out about coding, feel free to reach out. Let's build something amazing together!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilloxfogaca&show_icons=true&locale=en&layout=compact" alt="Murilloxfogaca" /></p>
 
