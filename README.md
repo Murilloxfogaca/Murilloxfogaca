@@ -2,49 +2,25 @@
 
 Hello there! I'm Murillo Fogaça, a dedicated web developer with a specialization in accessibility and user experience. With over five years of hands-on experience in the front-end development sector, I bring a wealth of knowledge in software manufacturing and banking processes. My passion lies in the world of coding, and I'm committed to creating innovative and efficient digital solutions.
 
-## Expertise
+| **Programming Languages**   | **Frameworks**                | **Styles and Design**               |
+| --------------------------- | ----------------------------- | ----------------------------------- |
+| - PHP                       | - TypeScript                  | - SCSS                              |
+| - JavaScript (JS)           | - Angular 13                  | - Styled Components                 |
+| - Dart                      | - React Native                 | - Tailwind                          |
+| - Java                      | - Next.js                     | - Materials UI                      |
+|                             | - Laravel                     | - Design System with Storybook      |
 
-### Programming Languages
-- PHP
-- JavaScript (JS)
-- Dart
-- Java
+| **Tests**                   | **Development Methodologies** | **Databases**                       |
+| --------------------------- | ----------------------------- | ----------------------------------- |
+| - Cypress                   | - Agile                       | - SQL                               |
+| - Jest                      | - Scrum with Kanban           | - MySQL                             |
+|                             |                               | - MongoDB                           |
 
-### Frameworks
-- TypeScript
-- Angular 13
-- React Native
-- Next.js
-- Laravel
-- CodeIgniter
-- Wordpress
+| **Virtualization**          | **Mobile Development**        |
+| --------------------------- | ----------------------------- |
+| - Docker                    | - Angular                       |
+|                             | - Flutter                        |
 
-### Styles and Design
-- SCSS
-- Styled Components
-- Tailwind
-- Materials UI
-- Design System with Storybook
-
-### Tests
-- Cypress
-- Jest
-
-### Development Methodologies
-- Agile
-- Scrum with Kanban
-
-### Databases
-- SQL
-- MySQL
-- MongoDB
-
-### Virtualization
-- Docker
-
-### Mobile Development
-- Angular
-- Flutter
 
 ## Collaboration and Learning
 
