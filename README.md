@@ -8,8 +8,8 @@ Hello there! I'm Murillo Fogaça, a dedicated web developer with a specializatio
 | JavaScript (JS)           | Angular 13    | Styled Components     | Jest                  |
 | Dart                      | React Native  | Tailwind             |                       |
 | Java                      | Next.js       | Materials UI          |                       |
-|                           | Laravel       | Design System        |                       |
-|                           | CodeIgniter   | with Storybook       |                       |
+|                           | Laravel       | Design System w/ Storybook|                       |
+|                           | CodeIgniter   |                      |                       |
 |                           | Wordpress     |                      |                       |
 
 | **Development Methodologies** | **Databases** | **Virtualization** | **Mobile Development** |
