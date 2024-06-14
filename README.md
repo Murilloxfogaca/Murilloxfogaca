@@ -1,4 +1,4 @@
-# Murillo Fogaça - Web Developer Front-End
+# Murillo Fogaça - Full-Stack Developer
 
 Hello there! I'm Murillo Fogaça, a dedicated web developer with a specialization in accessibility and user experience. With over five years of hands-on experience in the front-end development sector, I bring a wealth of knowledge in software manufacturing and banking processes. My passion lies in the world of coding, and I'm committed to creating innovative and efficient digital solutions.
 
