@@ -4,11 +4,11 @@ Hello there! I'm Murillo Fogaça, a dedicated web developer with a specializatio
 
 | **Programming Languages** | **Frameworks** | **Styles and Design** | **Development Tools** |
 |---------------------------|---------------|----------------------|-----------------------|
-| PHP                       | TypeScript    | SCSS                 | Cypress               |
+| PHP                       | TypeORM       | SCSS                 | Cypress               |
 | JavaScript (JS)           | Angular 13    | Styled Components     | Jest                  |
-| Dart                      | React Native  | Tailwind             |                       |
-| Java                      | Next.js       | Materials UI          |                       |
-|                           | Laravel       | Design System w/ Storybook|                       |
+| Dart                      | Nest.js       | Tailwind             |                       |
+| Typescript                | Next.js       | Materials UI          |                       |
+|                           | Laravel       | Design System w/ Storybook |                       |
 |                           | CodeIgniter   |                      |                       |
 |                           | Wordpress     |                      |                       |
 
