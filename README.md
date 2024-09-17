@@ -2,22 +2,22 @@
 
 Hello there! I'm Murillo Fogaça, a dedicated web developer with a specialization in accessibility and user experience. With over five years of hands-on experience in the front-end development sector, I bring a wealth of knowledge in software manufacturing and banking processes. My passion lies in the world of coding, and I'm committed to creating innovative and efficient digital solutions.
 
-| **Programming Languages** | **Frameworks** | **Styles and Design** | **Development Tools** |
-|---------------------------|---------------|----------------------|-----------------------|
-| PHP                       | TypeORM       | SCSS                 | Cypress               |
-| JavaScript (JS)           | Angular 13    | Styled Components     | Jest                  |
-| Dart                      | Nest.js       | Tailwind             |                       |
-| Typescript                | Next.js       | Materials UI          |                       |
-|                           | Laravel       | Design System w/ Storybook |                       |
-|                           | CodeIgniter   |                      |                       |
-|                           | Wordpress     |                      |                       |
+| **Programming Languages** | **Frameworks** | **Libraries** |
+|---------------------------|---------------|----------------------|
+| PHP                       | Cypress       | Jest, React-test-lib |
+| JavaScript (JS)           | Angular 13    | Express |
+| Dart                      | Nest.js       | React | 
+| Typescript                | Next.js       | Matarial UI, Tailwind and Emotion UI|
+| MySQL                     | Laravel       | Storybook |
+| CSS                       | CodeIgniter   | ZOD |
+| PostgreSQL                | Flutter       | TanStack |
 
-| **Development Methodologies** | **Databases** | **Virtualization** | **Mobile Development** |
-|------------------------------|--------------|--------------------|------------------------|
-| Agile                        | SQL          | Docker             | Angular                |
-| Scrum with Kanban            | MySQL        |                    | Flutter                |
-|                              | MongoDB      |                    |                        |
-
+| **Development Methodologies** | **DevOps** |
+|------------------------------|--------------|
+| Agile                        | Docker   | 
+| Scrum with Kanban            | Git Flow |
+| SOLID                        | Linux    |
+| Clean Architecture           | CI/CD    |
 
 
 ## Collaboration and Learning
