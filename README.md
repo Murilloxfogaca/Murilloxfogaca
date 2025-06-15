@@ -1,24 +1,17 @@
 # Murillo Fogaça - Full-Stack Developer 👨‍💻
 
-Hello there! 👋 I'm Murillo Fogaça, a dedicated web developer 💻 with a specialization in accessibility and user experience 🌐. With over five years of hands-on experience in the front-end development sector 🛠️, I bring a wealth of knowledge in software manufacturing and banking processes 🏦. My passion lies in the world of coding 💡, and I'm committed to creating innovative and efficient digital solutions 🚀.
+Hello! 👋 I'm Murillo Fogaça, a business-driven developer specializing in domain logic, document validation, and clean code architecture 💻. With 5+ years of experience in front-end development, I excel at implementing complex business rules—particularly in banking, financial systems 🏦, and secure document processing.
 
-| **Programming Languages** 🖥️ | **Frameworks** 🛠️ | **Libraries** 📚 |
-|---------------------------|---------------|----------------------|
-| PHP                       | Cypress       | Jest, React-test-lib |
-| JavaScript (JS)           | Angular 13    | Express |
-| Dart                      | Nest.js       | React | 
-| Typescript                | Next.js       | Matarial UI, Tailwind and Emotion UI |
-| MySQL                     | Laravel       | Storybook |
-| CSS                       | Vite          | ZOD |
-| PostgreSQL                | Flutter       | TanStack |
+| PHP | JavaScript (JS) | Typescript | Next.js | Nest.js | Vite | React | MySQL | Next.js| PostgreSQL | Flutter | TanStack |
 
-| **Development Methodologies** 🚀| **DevOps** ⚙️ | **Design tools** 🎨 |
-|------------------------------|-------------|------------------|
-| Agile                        | Docker      | Figma            |
-| Scrum with Kanban            | Git Flow    | Adobe XD         |
-| SOLID                        | Linux       | Photoshop        |
-| Clean Architecture           | CI/CD       | Canva            |
+🧠 Business-Driven Development
+→ Domain Modeling (DDD, Clean Architecture)
+→ Validation & Business Rules 
+→ Agile & Scrum with Kanban 
 
+⚙️ DevOps for Domain Systems
+→ Git Flow & CI/CD 
+→ Docker & Linux 
 
 ## Collaboration and Learning
 
